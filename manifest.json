@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Epoch Time Copier",
+    "name": "Epoch Copy",
     "version": "1.0",
     "description": "Copy the current epoch time to the clipboard with a shortcut.",
     "permissions": ["clipboardWrite", "activeTab", "scripting"],
